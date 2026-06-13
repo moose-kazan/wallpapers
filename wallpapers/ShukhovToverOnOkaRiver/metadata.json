@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Vadim Kalinnikov",
+                "Email": "moose@ylsoftware.com"
+            }
+        ],
+        "Id": "ShukhovToverOnOkaRiver",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Shukhov tover on Oka River",
+        "name[ru]": "Шуховская башня на Оке"
+    }
+}

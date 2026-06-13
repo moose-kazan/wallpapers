@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Vadim Kalinnikov",
+                "Email": "moose@ylsoftware.com"
+            }
+        ],
+        "Id": "IinkaRiver",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Iinka rive. Tatarstan republic",
+        "name[ru]": "Река Иинка. Республика Татарстан"
+    }
+}

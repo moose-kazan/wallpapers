@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Vadim Kalinnikov",
+                "Email": "moose@ylsoftware.com"
+            }
+        ],
+        "Id": "SunsetOnVolgaRiver",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Volga river near Kazan city",
+        "name[ru]": "Река Волга под Казанью"
+    }
+}

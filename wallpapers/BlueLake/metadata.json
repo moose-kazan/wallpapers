@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Vadim Kalinnikov",
+                "Email": "moose@ylsoftware.com"
+            }
+        ],
+        "Id": "BlueLake",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Blue Lake near Kazan City",
+        "name[ru]": "Голубое озеро рядом с городом Казань"
+    }
+}
