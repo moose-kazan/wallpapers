@@ -2,7 +2,7 @@
 
 cd $(dirname $(readlink -f $0))
 
-PKG_VER=$(git describe --tags --always --dirty --match "v*")
+PKG_VER=$(git describe --tags --always --dirty --match "v*" | sed 's/^v//')
 PKG_BUILD=1
 
 for distr in focal jammy noble resolute; do
