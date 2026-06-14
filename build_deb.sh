@@ -6,8 +6,8 @@ PKG_VER=$(git describe --tags --always --dirty --match "v*" | sed 's/^v//')
 PKG_BUILD=1
 
 for distr in focal jammy noble resolute; do
-	echo "Building deb-package $PKG_VER-$PKG_BUILD for $distr"
-	echo "vadim-kalinnikov-wallpapers (${PKG_VER}-${PKG_BUILD}) ${distr}; urgency=medium
+	echo "Building deb-package $PKG_VER-$distr$PKG_BUILD for $distr"
+	echo "vadim-kalinnikov-wallpapers (${PKG_VER}-${distr}${PKG_BUILD}) ${distr}; urgency=medium
 
   * New upstream release
 
