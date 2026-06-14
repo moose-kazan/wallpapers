@@ -17,7 +17,7 @@ foreach(item IN LISTS items)
 			OUTPUT_VARIABLE image_name
 			OUTPUT_STRIP_TRAILING_WHITESPACE
 		)
-		file(GLOB image_files "${CMAKE_CURRENT_SOURCE_DIR}/wallpapers/${image_id}/content/images/*")
+		file(GLOB image_files "${CMAKE_CURRENT_SOURCE_DIR}/wallpapers/${image_id}/contents/images/*")
 		list(LENGTH image_files images_count)
 		if (images_count EQUAL 0)
 			message(STATUS "No images found for ${image_id}")
