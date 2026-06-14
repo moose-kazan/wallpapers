@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: wallpapers
+Source: https://github.com/moose-kazan/wallpapers
+
+Files: *
+Copyright: 2020-2022 Vadim Kalinnikov <moose@ylsoftware.com>
+License: CC-BY-SA-4.0
+
+Files: debian/*
+Copyright: 2020-2022 Vadim Kalinnikov <moose@ylsoftware.com>
+License: CC-BY-SA-4.0
+

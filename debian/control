@@ -1,0 +1,16 @@
+Source: vadim-kalinnikov-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Vadim Kalinnikov <moose@ylsoftware.com>
+Build-Depends: debhelper, cmake (>= 3.18), jq
+Standards-Version: 4.5.0
+Homepage: https://github.com/moose-kazan/wallpapers
+Vcs-Git: https://github.com/moose-kazan/wallpapers.git
+Vcs-Browser: https://github.com/moose-kazan/wallpapers.git
+
+Package: vadim-kalinnikov-wallpapers
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Desktop wallpapers by Vadim Kalinnikov aka MooSE aka moose_kazan
+
+
